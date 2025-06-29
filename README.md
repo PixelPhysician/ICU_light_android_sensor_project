@@ -6,6 +6,9 @@ This project investigates whether consumer-grade Android light sensors (Samsung 
 
 ## Project Components
 - [Project Slides (Key slides marked with ❗)](https://github.com/PixelPhysician/ICU_light_android_sensor_project/blob/main/Sarah%20Deckarm_Exercise%2010_Android%20Sensor%20in%20real%20life%20application.pptx)
+
+
+## Appendix/additional Components
 - [Demo Video](https://github.com/PixelPhysician/ICU_light_android_sensor_project/blob/main/Light_Monitoring_ICU.mp4)   
 - [Brief outline of Project Proposal - Circadian ICU Study`](https://github.com/PixelPhysician/ICU_light_android_sensor_project/blob/main/CIRCADIAN.docx)
 
